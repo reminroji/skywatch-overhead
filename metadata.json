@@ -1,0 +1,10 @@
+{
+  "name": "Skywatch Overhead",
+  "description": "Live overhead aircraft, helicopter, and airspace radar powered by Google Maps Platform and real-time ADS-B telemetry.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
